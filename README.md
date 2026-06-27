@@ -61,8 +61,8 @@ I'm a **Computer Science Engineering student** passionate about transforming raw
 
 | Project | Description | Tech |
 |---|---|---|
-| [📉 Customer Churn Prediction Model](https://github.com/snehashrotriya0424/Customer-Churn-Prediction-Model) | Built a **Random Forest classifier** on 1,000 synthetic customer records to predict churn risk. Identified **Customer Service Calls** and **Payment Delays** as top churn drivers via Feature Importance analysis, enabling proactive retention strategies | `Python` `Scikit-learn` `Pandas` `NumPy` `Seaborn` `Random Forest` |
-| [👥 HR Employee Attrition Analysis](https://github.com/snehashrotriya0424/HR-Employee-Attrition-Analysis) | End-to-end EDA revealing that lower-income employees and those with job satisfaction scores of 1–2 drove a **16% baseline turnover rate**. Delivered HR dashboard with actionable compensation and department-level retention recommendations | `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` |
+| [📉 Customer Churn Prediction Model](https://github.com/snehashrotriya0424/Customer-Churn-Prediction-Model) | Built a **Random Forest classifier** on 1,000 synthetic customer records to predict churn risk. Identified **Customer Service Calls** and **Payment Delays** as top churn drivers via Feature Importance analysis, enabling proactive retention strategies | `Python` `Scikit-learn` `Pandas` `NumPy` `Seaborn` `Random Forest``PowerBI`|
+| [👥 HR Employee Attrition Analysis](https://github.com/snehashrotriya0424/HR-Employee-Attrition-Analysis) | End-to-end EDA revealing that lower-income employees and those with job satisfaction scores of 1–2 drove a **16% baseline turnover rate**. Delivered HR dashboard with actionable compensation and department-level retention recommendations | `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `PowerBI`|
 | [📊 Sales Analytics Dashboard](https://github.com/snehashrotriya0424/Sales-dashboard) | Production-ready dark-themed **BI dashboard** with animated KPI cards, revenue trend charts, conversion funnel, customer segments, and regional performance — deployed live on Vercel with zero build tools | `HTML5` `CSS3` `JavaScript` `Chart.js` `Vercel` |
 
 ### 🌐 Live Demo
