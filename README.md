@@ -1,12 +1,13 @@
+cat > /mnt/user-data/outputs/README.md << 'READMEEOF'
 <h1 align="center">Hi, I'm Sneha Kumari 👋</h1>
 
-<h3 align="center">🎓 CS Undergrad @ VBU (2027) &nbsp;|&nbsp; 📊 Aspiring Data Analyst &nbsp;|&nbsp; 🤖 ML & Business Intelligence Enthusiast</h3>
+<h3 align="center">🎓 ECE Undergrad @ VBU (2027) &nbsp;|&nbsp; 📊 Aspiring Data Analyst &nbsp;|&nbsp; 🤖 ML & Business Intelligence Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SNEHASAHU909@GMAIL.COM">
+  <a href="mailto:snehasahu909@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=snehashrotriya0424&style=for-the-badge&color=0e75b6" alt="Profile Views" />
@@ -16,13 +17,13 @@
 
 ## 🚀 About Me
 
-I'm a **Electronic and communication Engineering student** passionate about transforming raw data into meaningful business insights. I love working on **end-to-end data projects** — from exploratory analysis and machine learning to interactive dashboards that help people make smarter decisions.
+I'm a **Computer Science Engineering student** passionate about transforming raw data into meaningful business insights. I love working on **end-to-end data projects** — from exploratory analysis and machine learning to interactive dashboards that help people make smarter decisions.
 
 - 🔭 Currently building projects in **Python, Machine Learning & Data Visualization**
 - 🌱 Actively deepening my skills in **EDA, Predictive Modeling & Business Intelligence**
 - 🎯 Goal: Break into the **Data Analytics / Data Science** industry with impactful, portfolio-ready work
 - 💡 I believe: *"Behind every great business decision is a data story waiting to be told."*
-- 📍 Based in **Hazaribagh, India**
+- 📍 Based in **Ludhiana, India**
 
 ---
 
@@ -43,12 +44,15 @@ I'm a **Electronic and communication Engineering student** passionate about tran
 ### 💻 Programming & Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -58,10 +62,14 @@ I'm a **Electronic and communication Engineering student** passionate about tran
 
 | Project | Description | Tech |
 |---|---|---|
-| [📉 Customer Churn Prediction](https://github.com/snehashrotriya0424/Customer-Churn-Prediction-Model) | ML model to identify at-risk customers and predict churn with classification algorithms | `Python` `Scikit-learn` `Pandas` `EDA` |
-| [👥 HR Employee Attrition Analysis](https://github.com/snehashrotriya0424/HR-Employee-Attrition-Analysis) | Deep-dive EDA into workforce attrition patterns and key business drivers | `Python` `Pandas` `Matplotlib` |
-| [📊 Sales Dashboard](https://github.com/snehashrotriya0424/Sales-dashboard) | Interactive sales performance dashboard with KPIs and trend analysis | `HTML` `CSS` `JavaScript` |
-| [🐍 Python Practice Projects](https://github.com/snehashrotriya0424/python-) | Collection of Python scripts covering data manipulation and problem-solving | `Python` |
+| [📉 Customer Churn Prediction Model](https://github.com/snehashrotriya0424/Customer-Churn-Prediction-Model) | Built a **Random Forest classifier** on 1,000 synthetic customer records to predict churn risk. Identified **Customer Service Calls** and **Payment Delays** as top churn drivers via Feature Importance analysis, enabling proactive retention strategies | `Python` `Scikit-learn` `Pandas` `NumPy` `Seaborn` `Random Forest` |
+| [👥 HR Employee Attrition Analysis](https://github.com/snehashrotriya0424/HR-Employee-Attrition-Analysis) | End-to-end EDA revealing that lower-income employees and those with job satisfaction scores of 1–2 drove a **16% baseline turnover rate**. Delivered HR dashboard with actionable compensation and department-level retention recommendations | `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` |
+| [📊 Sales Analytics Dashboard](https://github.com/snehashrotriya0424/Sales-dashboard) | Production-ready dark-themed **BI dashboard** with animated KPI cards, revenue trend charts, conversion funnel, customer segments, and regional performance — deployed live on Vercel with zero build tools | `HTML5` `CSS3` `JavaScript` `Chart.js` `Vercel` |
+
+### 🌐 Live Demo
+| Project | Live Link |
+|---|---|
+| 📊 Sales Dashboard | [🔗 View Live](https://sales-dashboard-one-pi.vercel.app) |
 
 ---
 
@@ -84,14 +92,14 @@ I'm a **Electronic and communication Engineering student** passionate about tran
 ✅ Phase 1 — Foundations (Done)
    ├── Python (core programming)
    ├── Data structures & problem solving
-   ├── HTML/CSS (web basics)
+   ├── HTML/CSS/JS (web + dashboard skills)
    └── Git & GitHub
 
 🔄 Phase 2 — Data Analytics Core (In Progress)
    ├── Pandas & NumPy (data manipulation)
    ├── Exploratory Data Analysis (EDA)
    ├── Data visualization (Matplotlib, Seaborn)
-   └── Machine Learning basics (Scikit-learn)
+   └── Machine Learning basics (Scikit-learn, Random Forest)
 
 📅 Phase 3 — Business Intelligence (Upcoming)
    ├── SQL (queries, joins, window functions)
@@ -117,7 +125,7 @@ I'm always open to:
 - 🌟 Contributing to beginner-friendly open-source projects
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -131,3 +139,5 @@ I'm always open to:
 <p align="center">
   ⭐ <b>If you find my projects helpful, consider giving them a star!</b> ⭐
 </p>
+READMEEOF
+echo "Done!"
