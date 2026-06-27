@@ -3,7 +3,7 @@
 <h3 align="center">🎓 ECE Undergrad @ VBU (2027) &nbsp;|&nbsp; 📊 Aspiring Data Analyst &nbsp;|&nbsp; 🤖 ML & Business Intelligence Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://https://https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:snehasahu909@gmail.com">
@@ -124,7 +124,7 @@ I'm always open to:
 - 🌟 Contributing to beginner-friendly open-source projects
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
