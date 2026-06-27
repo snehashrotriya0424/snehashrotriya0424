@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'READMEEOF'
 <h1 align="center">Hi, I'm Sneha Kumari 👋</h1>
 
 <h3 align="center">🎓 ECE Undergrad @ VBU (2027) &nbsp;|&nbsp; 📊 Aspiring Data Analyst &nbsp;|&nbsp; 🤖 ML & Business Intelligence Enthusiast</h3>
@@ -139,5 +138,4 @@ I'm always open to:
 <p align="center">
   ⭐ <b>If you find my projects helpful, consider giving them a star!</b> ⭐
 </p>
-READMEEOF
-echo "Done!"
+
