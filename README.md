@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering student** passionate about transforming raw data into meaningful business insights. I love working on **end-to-end data projects** — from exploratory analysis and machine learning to interactive dashboards that help people make smarter decisions.
+I'm a **Electronic & Communication Engineering student** passionate about transforming raw data into meaningful business insights. I love working on **end-to-end data projects** — from exploratory analysis and machine learning to interactive dashboards that help people make smarter decisions.
 
 - 🔭 Currently building projects in **Python, Machine Learning & Data Visualization**
 - 🌱 Actively deepening my skills in **EDA, Predictive Modeling & Business Intelligence**
