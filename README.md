@@ -3,7 +3,7 @@
 <h3 align="center">🎓 ECE Undergrad @ VBU (2027) &nbsp;|&nbsp; 📊 Aspiring Data Analyst &nbsp;|&nbsp; 🤖 ML & Business Intelligence Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://https://https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
+  <a href="https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:snehasahu909@gmail.com">
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Electronic & Communication Engineering student** passionate about transforming raw data into meaningful business insights. I love working on **end-to-end data projects** — from exploratory analysis and machine learning to interactive dashboards that help people make smarter decisions.
+I'm a **Electronic & Communication Engineering student** passionate about transforming raw data into meaningful business insights. I love working on **end-to-end data projects** — from exploratory analysis to predictive modeling.
 
 - 🔭 Currently building projects in **Python, Machine Learning & Data Visualization**
 - 🌱 Actively deepening my skills in **EDA, Predictive Modeling & Business Intelligence**
@@ -61,9 +61,9 @@ I'm a **Electronic & Communication Engineering student** passionate about transf
 
 | Project | Description | Tech |
 |---|---|---|
-| [📉 Customer Churn Prediction Model](https://github.com/snehashrotriya0424/Customer-Churn-Prediction-Model) | Built a **Random Forest classifier** on 1,000 synthetic customer records to predict churn risk. Identified **Customer Service Calls** and **Payment Delays** as top churn drivers via Feature Importance analysis, enabling proactive retention strategies | `Python` `Scikit-learn` `Pandas` `NumPy` `Seaborn` `Random Forest``PowerBI`|
-| [👥 HR Employee Attrition Analysis](https://github.com/snehashrotriya0424/HR-Employee-Attrition-Analysis) | End-to-end EDA revealing that lower-income employees and those with job satisfaction scores of 1–2 drove a **16% baseline turnover rate**. Delivered HR dashboard with actionable compensation and department-level retention recommendations | `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `PowerBI`|
-| [📊 Sales Analytics Dashboard](https://github.com/snehashrotriya0424/Sales-dashboard) | Production-ready dark-themed **BI dashboard** with animated KPI cards, revenue trend charts, conversion funnel, customer segments, and regional performance — deployed live on Vercel with zero build tools | `HTML5` `CSS3` `JavaScript` `Chart.js` `Vercel` |
+| [📉 Customer Churn Prediction Model](https://github.com/snehashrotriya0424/Customer-Churn-Prediction-Model) | Built a **Random Forest classifier** on 1,000 synthetic customer records to predict churn with 87% accuracy | Python, Scikit-learn |
+| [👥 HR Employee Attrition Analysis](https://github.com/snehashrotriya0424/HR-Employee-Attrition-Analysis) | End-to-end EDA revealing key attrition drivers and trends | Pandas, Matplotlib, Seaborn |
+| [📊 Sales Analytics Dashboard](https://github.com/snehashrotriya0424/Sales-dashboard) | Production-ready dark-themed **BI dashboard** with animated KPI cards and revenue trend charts | HTML, CSS, JavaScript, Chart.js |
 
 ### 🌐 Live Demo
 | Project | Live Link |
@@ -124,7 +124,7 @@ I'm always open to:
 - 🌟 Contributing to beginner-friendly open-source projects
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
+  <a href="https://www.linkedin.com/in/sneha-sahu-427877320/" target="_blank">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -138,4 +138,3 @@ I'm always open to:
 <p align="center">
   ⭐ <b>If you find my projects helpful, consider giving them a star!</b> ⭐
 </p>
-
