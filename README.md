@@ -22,7 +22,7 @@ I'm a **Electronic & Communication Engineering student** passionate about transf
 - 🌱 Actively deepening my skills in **EDA, Predictive Modeling & Business Intelligence**
 - 🎯 Goal: Break into the **Data Analytics / Data Science** industry with impactful, portfolio-ready work
 - 💡 I believe: *"Behind every great business decision is a data story waiting to be told."*
-- 📍 Based in **Ludhiana, India**
+- 📍 Based in **Hazaribagh, India**
 
 ---
 
