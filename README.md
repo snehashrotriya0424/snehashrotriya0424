@@ -68,6 +68,7 @@ I'm a **Electronic & Communication Engineering student** passionate about transf
 ### 🌐 Live Demo
 | Project | Live Link |
 |---|---|
+| -supply-chain-stockout-risk-pipeline | [🔗 View Live](https://snehashrotriya0424.github.io/demo-link/) |
 | 📊 Sales Dashboard | [🔗 View Live](https://sales-dashboard-one-pi.vercel.app) |
 
 ---
